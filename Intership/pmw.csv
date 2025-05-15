@@ -1,0 +1,9 @@
+Equipment,Power_kW,Quantity,Total_Load_kW
+Lighting,0.2,10,2.0
+Office Equipment (PCs),0.3,3,0.9
+Air Compressor,3.5,1,3.5
+Welding Machines,5.0,2,10.0
+Motors (3-phase),2.2,3,6.6
+Sockets (general use),0.5,6,3.0
+Control Room Equipment,1.5,1,1.5
+Total,,,27.5
